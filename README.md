@@ -4,6 +4,8 @@
 
 ![Visitor Count](https : //profile-counter.glitch.me/{Sullynobugz}/count.svg)
 
+[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
+
 meine Hobbys :
 - Fußball
 - lesen
